@@ -1,0 +1,466 @@
+XGBoost Malware Family 1
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       175
+           1       0.99      1.00      1.00       496
+
+    accuracy                           1.00       671
+   macro avg       1.00      0.99      0.99       671
+weighted avg       1.00      1.00      1.00       671
+
+True Negative: 0.9829
+False Positive: 0.0171
+False Negative: 0.0000
+True Positive: 1.0000
+
+Training Performance
+CPU: 195.80%
+Memory Overhead: 6.11 MB
+Latency: 0.0867 sec
+
+Prediction Performance
+CPU: 439.00%
+Memory Overhead: 0.12 MB
+Latency: 0.0022 sec
+
+
+SVM Malware Family 1
+              precision    recall  f1-score   support
+
+           0       0.99      0.91      0.95       175
+           1       0.97      1.00      0.98       496
+
+    accuracy                           0.97       671
+   macro avg       0.98      0.95      0.97       671
+weighted avg       0.98      0.97      0.97       671
+
+True Negative: 0.9086
+False Positive: 0.0914
+False Negative: 0.0020
+True Positive: 0.9980
+
+Training Performance
+CPU: 100.20%
+Memory Overhead: 0.52 MB
+Latency: 2.4954 sec
+
+Prediction Performance
+CPU: 111.50%
+Memory Overhead: 0.02 MB
+Latency: 0.0358 sec
+
+
+XGBoost Malware Family 2
+              precision    recall  f1-score   support
+
+           0       0.98      0.91      0.94       175
+           1       0.93      0.98      0.95       205
+
+    accuracy                           0.95       380
+   macro avg       0.95      0.95      0.95       380
+weighted avg       0.95      0.95      0.95       380
+
+True Negative: 0.9143
+False Positive: 0.0857
+False Negative: 0.0195
+True Positive: 0.9805
+
+Training Performance
+CPU: 188.70%
+Memory Overhead: 0.00 MB
+Latency: 0.0847 sec
+
+Prediction Performance
+CPU: 0.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0018 sec
+
+
+SVM Malware Family 2
+              precision    recall  f1-score   support
+
+           0       0.93      0.90      0.91       175
+           1       0.91      0.94      0.93       205
+
+    accuracy                           0.92       380
+   macro avg       0.92      0.92      0.92       380
+weighted avg       0.92      0.92      0.92       380
+
+True Negative: 0.8971
+False Positive: 0.1029
+False Negative: 0.0585
+True Positive: 0.9415
+
+Training Performance
+CPU: 99.60%
+Memory Overhead: 0.00 MB
+Latency: 1.3656 sec
+
+Prediction Performance
+CPU: 93.50%
+Memory Overhead: 0.00 MB
+Latency: 0.0213 sec
+
+
+XGBoost Malware Family 3
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       175
+           1       0.96      0.96      0.96       176
+
+    accuracy                           0.96       351
+   macro avg       0.96      0.96      0.96       351
+weighted avg       0.96      0.96      0.96       351
+
+True Negative: 0.9600
+False Positive: 0.0400
+False Negative: 0.0398
+True Positive: 0.9602
+
+Training Performance
+CPU: 206.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0776 sec
+
+Prediction Performance
+CPU: 0.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0016 sec
+
+
+SVM Malware Family 3
+              precision    recall  f1-score   support
+
+           0       0.91      0.98      0.94       175
+           1       0.98      0.90      0.94       176
+
+    accuracy                           0.94       351
+   macro avg       0.94      0.94      0.94       351
+weighted avg       0.94      0.94      0.94       351
+
+True Negative: 0.9829
+False Positive: 0.0171
+False Negative: 0.1023
+True Positive: 0.8977
+
+Training Performance
+CPU: 101.40%
+Memory Overhead: 0.00 MB
+Latency: 0.8183 sec
+
+Prediction Performance
+CPU: 74.20%
+Memory Overhead: 0.00 MB
+Latency: 0.0134 sec
+
+
+XGBoost Malware Family 4
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       175
+           1       1.00      1.00      1.00        58
+
+    accuracy                           1.00       233
+   macro avg       1.00      1.00      1.00       233
+weighted avg       1.00      1.00      1.00       233
+
+True Negative: 1.0000
+False Positive: 0.0000
+False Negative: 0.0000
+True Positive: 1.0000
+
+Training Performance
+CPU: 194.90%
+Memory Overhead: 0.00 MB
+Latency: 0.0307 sec
+
+Prediction Performance
+CPU: 0.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0014 sec
+
+
+SVM Malware Family 4
+              precision    recall  f1-score   support
+
+           0       0.75      1.00      0.86       175
+           1       0.00      0.00      0.00        58
+
+    accuracy                           0.75       233
+   macro avg       0.38      0.50      0.43       233
+weighted avg       0.56      0.75      0.64       233
+
+True Negative: 1.0000
+False Positive: 0.0000
+False Negative: 1.0000
+True Positive: 0.0000
+
+Training Performance
+CPU: 102.40%
+Memory Overhead: 0.00 MB
+Latency: 0.6543 sec
+
+Prediction Performance
+CPU: 81.70%
+Memory Overhead: 0.00 MB
+Latency: 0.0122 sec
+
+
+XGBoost Malware Family 5
+              precision    recall  f1-score   support
+
+           0       0.72      0.75      0.73       175
+           1       0.90      0.89      0.89       456
+
+    accuracy                           0.85       631
+   macro avg       0.81      0.82      0.81       631
+weighted avg       0.85      0.85      0.85       631
+
+True Negative: 0.7486
+False Positive: 0.2514
+False Negative: 0.1140
+True Positive: 0.8860
+
+Training Performance
+CPU: 201.80%
+Memory Overhead: 0.12 MB
+Latency: 0.0991 sec
+
+Prediction Performance
+CPU: 0.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0020 sec
+
+
+SVM Malware Family 5
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       175
+           1       0.72      1.00      0.84       456
+
+    accuracy                           0.72       631
+   macro avg       0.36      0.50      0.42       631
+weighted avg       0.52      0.72      0.61       631
+
+True Negative: 0.0000
+False Positive: 1.0000
+False Negative: 0.0000
+True Positive: 1.0000
+
+Training Performance
+CPU: 99.90%
+Memory Overhead: 0.00 MB
+Latency: 7.4240 sec
+
+Prediction Performance
+CPU: 106.10%
+Memory Overhead: 0.00 MB
+Latency: 0.1130 sec
+
+
+XGBoost Malware Family 6
+              precision    recall  f1-score   support
+
+           0       0.90      0.71      0.79       175
+           1       0.95      0.99      0.97      1003
+
+    accuracy                           0.94      1178
+   macro avg       0.92      0.85      0.88      1178
+weighted avg       0.94      0.94      0.94      1178
+
+True Negative: 0.7086
+False Positive: 0.2914
+False Negative: 0.0140
+True Positive: 0.9860
+
+Training Performance
+CPU: 186.10%
+Memory Overhead: 0.44 MB
+Latency: 0.1450 sec
+
+Prediction Performance
+CPU: 323.20%
+Memory Overhead: 0.00 MB
+Latency: 0.0031 sec
+
+
+SVM Malware Family 6
+              precision    recall  f1-score   support
+
+           0       0.95      0.57      0.71       175
+           1       0.93      1.00      0.96      1003
+
+    accuracy                           0.93      1178
+   macro avg       0.94      0.78      0.84      1178
+weighted avg       0.93      0.93      0.92      1178
+
+True Negative: 0.5657
+False Positive: 0.4343
+False Negative: 0.0050
+True Positive: 0.9950
+
+Training Performance
+CPU: 100.10%
+Memory Overhead: 1.53 MB
+Latency: 9.6088 sec
+
+Prediction Performance
+CPU: 97.40%
+Memory Overhead: 0.00 MB
+Latency: 0.1232 sec
+
+
+XGBoost Malware Family 7
+              precision    recall  f1-score   support
+
+           0       0.71      0.35      0.47       175
+           1       0.80      0.95      0.87       491
+
+    accuracy                           0.79       666
+   macro avg       0.76      0.65      0.67       666
+weighted avg       0.78      0.79      0.76       666
+
+True Negative: 0.3486
+False Positive: 0.6514
+False Negative: 0.0509
+True Positive: 0.9491
+
+Training Performance
+CPU: 194.40%
+Memory Overhead: 0.00 MB
+Latency: 0.1080 sec
+
+Prediction Performance
+CPU: 419.10%
+Memory Overhead: 0.00 MB
+Latency: 0.0023 sec
+
+
+SVM Malware Family 7
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       175
+           1       0.74      1.00      0.85       491
+
+    accuracy                           0.74       666
+   macro avg       0.37      0.50      0.42       666
+weighted avg       0.54      0.74      0.63       666
+
+True Negative: 0.0000
+False Positive: 1.0000
+False Negative: 0.0000
+True Positive: 1.0000
+
+Training Performance
+CPU: 100.10%
+Memory Overhead: 1.53 MB
+Latency: 9.3987 sec
+
+Prediction Performance
+CPU: 97.40%
+Memory Overhead: 0.00 MB
+Latency: 0.1026 sec
+
+
+XGBoost Malware Family 8
+              precision    recall  f1-score   support
+
+           0       0.78      0.75      0.76       175
+           1       0.76      0.79      0.77       173
+
+    accuracy                           0.77       348
+   macro avg       0.77      0.77      0.77       348
+weighted avg       0.77      0.77      0.77       348
+
+True Negative: 0.7486
+False Positive: 0.2514
+False Negative: 0.2139
+True Positive: 0.7861
+
+Training Performance
+CPU: 192.50%
+Memory Overhead: 0.00 MB
+Latency: 0.0882 sec
+
+Prediction Performance
+CPU: 514.20%
+Memory Overhead: 0.00 MB
+Latency: 0.0019 sec
+
+
+SVM Malware Family 8
+              precision    recall  f1-score   support
+
+           0       0.78      0.37      0.50       175
+           1       0.58      0.90      0.71       173
+
+    accuracy                           0.63       348
+   macro avg       0.68      0.63      0.61       348
+weighted avg       0.68      0.63      0.61       348
+
+True Negative: 0.3714
+False Positive: 0.6286
+False Negative: 0.1040
+True Positive: 0.8960
+
+Training Performance
+CPU: 99.80%
+Memory Overhead: 0.00 MB
+Latency: 3.1458 sec
+
+Prediction Performance
+CPU: 108.60%
+Memory Overhead: 0.00 MB
+Latency: 0.0460 sec
+
+
+XGBoost Malware Family 9
+              precision    recall  f1-score   support
+
+           0       0.87      0.87      0.87       175
+           1       0.90      0.90      0.90       225
+
+    accuracy                           0.89       400
+   macro avg       0.89      0.89      0.89       400
+weighted avg       0.89      0.89      0.89       400
+
+True Negative: 0.8686
+False Positive: 0.1314
+False Negative: 0.0978
+True Positive: 0.9022
+
+Training Performance
+CPU: 197.20%
+Memory Overhead: 0.00 MB
+Latency: 0.0861 sec
+
+Prediction Performance
+CPU: 0.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0018 sec
+
+
+SVM Malware Family 9
+              precision    recall  f1-score   support
+
+           0       0.80      0.66      0.72       175
+           1       0.77      0.88      0.82       225
+
+    accuracy                           0.78       400
+   macro avg       0.79      0.77      0.77       400
+weighted avg       0.78      0.78      0.78       400
+
+True Negative: 0.6571
+False Positive: 0.3429
+False Negative: 0.1244
+True Positive: 0.8756
+
+Training Performance
+CPU: 100.10%
+Memory Overhead: 0.00 MB
+Latency: 2.8380 sec
+
+Prediction Performance
+CPU: 102.00%
+Memory Overhead: 0.00 MB
+Latency: 0.0391 sec

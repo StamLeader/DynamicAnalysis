@@ -1,0 +1,59 @@
+Batch 1:
+Samples processed: 1000
+CPU: 101.60%
+Memory: 1.38 MB
+Latency: 0.2755 sec
+
+Batch 2:
+Samples processed: 1000
+CPU: 96.70%
+Memory: 0.00 MB
+Latency: 0.2585 sec
+
+Batch 3:
+Samples processed: 1000
+CPU: 100.40%
+Memory: 0.00 MB
+Latency: 0.2588 sec
+
+Batch 4:
+Samples processed: 1000
+CPU: 99.50%
+Memory: 0.00 MB
+Latency: 0.2612 sec
+
+Batch 5:
+Samples processed: 1000
+CPU: 99.00%
+Memory: 0.00 MB
+Latency: 0.2727 sec
+
+Batch 6:
+Samples processed: 1000
+CPU: 102.10%
+Memory: 0.00 MB
+Latency: 0.2741 sec
+
+Batch 7:
+Samples processed: 1000
+CPU: 99.00%
+Memory: 0.00 MB
+Latency: 0.2725 sec
+
+Batch 8:
+Samples processed: 1000
+CPU: 98.80%
+Memory: 0.00 MB
+Latency: 0.2732 sec
+
+Batch 9:
+Samples processed: 1000
+CPU: 102.30%
+Memory: 0.00 MB
+Latency: 0.2737 sec
+
+Batch 10:
+Samples processed: 795
+CPU: 100.60%
+Memory: 0.00 MB
+Latency: 0.2187 sec

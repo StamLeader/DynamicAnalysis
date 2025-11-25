@@ -1,0 +1,50 @@
+XGBoost
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94      1702
+           1       0.96      0.96      0.96      2710
+
+    accuracy                           0.95      4412
+   macro avg       0.95      0.95      0.95      4412
+weighted avg       0.95      0.95      0.95      4412
+
+True Negative: 0.9442
+False Positive: 0.0558
+False Negative: 0.0406
+True Positive: 0.9594
+
+Training Performance
+CPU: 195.50%
+Memory Overhead: 8.86 MB
+Latency: 0.13 sec
+
+Prediction Performance
+CPU: 165.40%
+Memory Overhead: 0.13 MB
+Latency: 0.01 sec
+
+
+SVM
+              precision    recall  f1-score   support
+
+           0       0.85      0.40      0.55      1702
+           1       0.72      0.96      0.82      2710
+
+    accuracy                           0.74      4412
+   macro avg       0.78      0.68      0.68      4412
+weighted avg       0.77      0.74      0.71      4412
+
+True Negative: 0.4013
+False Positive: 0.5987
+False Negative: 0.0443
+True Positive: 0.9557
+
+Training Performance
+CPU: 100.00%
+Memory Overhead: 0.58 MB
+Latency: 7.33 sec
+
+Prediction Performance
+CPU: 100.10%
+Memory Overhead: 0.00 MB
+Latency: 1.42 sec
